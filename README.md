@@ -8,7 +8,7 @@ TP AL - ESIR2 - Netflix
 # How to run
 
 `docker run image_cmd`
-and open http://youraddress:9090/jsp/rss in any web browser
+and open http://youraddress:9090/jsp/rss.jsp in any web browser
 
 # Read the news!
 
